@@ -1,0 +1,1 @@
+lisp.py is a simple lisp interpreter based on Peter Norvig's [(How to Write a (Lisp) Interpreter (in Python))](http://norvig.com/lispy.html).
